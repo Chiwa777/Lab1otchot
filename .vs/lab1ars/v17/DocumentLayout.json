@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\\source\\repos\\lab1ars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0DE7A9-35C6-433D-A0EB-574F5D1E24D9}|lab1ars\\lab1ars.vcxproj|C:\\Users\\Work\\source\\repos\\lab1ars\\lab1ars\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E0DE7A9-35C6-433D-A0EB-574F5D1E24D9}|lab1ars\\lab1ars.vcxproj|solutionrelative:lab1ars\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Work\\source\\repos\\lab1ars\\lab1ars\\main.cpp",
+              "RelativeDocumentMoniker": "lab1ars\\main.cpp",
+              "ToolTip": "C:\\Users\\Work\\source\\repos\\lab1ars\\lab1ars\\main.cpp",
+              "RelativeToolTip": "lab1ars\\main.cpp",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAowBQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T20:07:11.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
